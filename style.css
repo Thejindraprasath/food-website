@@ -22,7 +22,9 @@ a{
     font-weight: 400;
     text-decoration: none;
 }
-
+.entry-meta > span>a{
+    font-weight: 400;
+}
 .entry-title>a{
     letter-spacing: 0.1px;
     font-weight:400;
