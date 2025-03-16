@@ -25,6 +25,7 @@ a{
 
 .entry-title>a{
     letter-spacing: 0.1px;
+    font-weight:400;
 }
 .all-recipes :hover{
     color: grey;
@@ -129,6 +130,11 @@ img{
 .vcard>a{
     color: #383838;
 }
+
+.entry-meta{
+    font-weight: 400;
+}
+
 @media (max-width:1300px){ 
     .content{
         margin-left: 10em;
